@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+*.DS_Store
+*._.DS_Store
 
 # Object files
 *.o
@@ -34,13 +36,15 @@
 *.app
 *.i*86
 *.x86_64
-*.hex
+
 
 # Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
+*.pbi
+*.cout
 
 # Kernel Module Compile Results
 *.mod*
